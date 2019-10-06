@@ -1,3 +1,5 @@
+In this project, you will implement various network properties using pySpark and GraphFrames. You may need to look into the documentation for GraphFrames and networkx to complete this project. In addition to implementing these network metrics, you will be required to answer some questions when applying these metrics on real world and synthetic networks. 
+
 All scripts require GraphFrames 0.1.0 and Spark 1.6.
 ================================================================
 PREREQUISITE
